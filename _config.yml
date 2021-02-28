@@ -2,28 +2,20 @@
 title: FreshWave
 email: fresh.wave.2021@gmail.com
 url: https://freshwave.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Wouldn't it be nice if you could cool down a product just has fast as you can heat it in a microwave?"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: '#000000'
-  links: '#219ab3'
+  primary-dark: '#2C3B8B'
+  links: '#ffffff'
 
 # Footer settings
-footer: Your Website
+footer: FreshWave
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://www.facebook.com/freshwaveofficial
 
 # Build settings
 markdown: kramdown
