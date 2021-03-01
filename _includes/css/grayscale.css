@@ -156,12 +156,23 @@ a:focus {
     vertical-align: middle;
 }
 
+.intro .cool {
+    color: {{ site.color.primary-dark }};
+}
+
 .intro .intro-body .brand-heading {
     font-size: 40px;
 }
 
 .intro .intro-body .intro-text {
     font-size: 18px;
+}
+
+img, .intro .intro-body .intro-img {
+    max-width: 100%;
+}
+.about-img {
+    margin: 15px auto;
 }
 
 @media(min-width:767px) {
@@ -277,7 +288,7 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 200px;
+        padding-top: 150px;
     }
 
     .download-section {
